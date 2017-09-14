@@ -1,0 +1,101 @@
+{
+  "stickers" : [
+    {
+      "filename" : "plain-duck.sticker"
+    },
+    {
+      "filename" : "ducked-up.sticker"
+    },
+    {
+      "filename" : "holy-duck-hail-mary.sticker"
+    },
+    {
+      "filename" : "duck-yeah.sticker"
+    },
+    {
+      "filename" : "mother-ducker.sticker"
+    },
+    {
+      "filename" : "you-are-ducking-killing-me.sticker"
+    },
+    {
+      "filename" : "sleepy-as-duck.sticker"
+    },
+    {
+      "filename" : "no-ducking-way.sticker"
+    },
+    {
+      "filename" : "duck-all-this-shot.sticker"
+    },
+    {
+      "filename" : "oh-duck.sticker"
+    },
+    {
+      "filename" : "duck-me.sticker"
+    },
+    {
+      "filename" : "duck-you.sticker"
+    },
+    {
+      "filename" : "drunk-as-duck.sticker"
+    },
+    {
+      "filename" : "not-duckable.sticker"
+    },
+    {
+      "filename" : "that-is-ducking-hilarious.sticker"
+    },
+    {
+      "filename" : "happy-ducking-birthday.sticker"
+    },
+    {
+      "filename" : "holy-duck-shalom.sticker"
+    },
+    {
+      "filename" : "duck-off.sticker"
+    },
+    {
+      "filename" : "ducking-sad.sticker"
+    },
+    {
+      "filename" : "dont-duck-with-me.sticker"
+    },
+    {
+      "filename" : "come-duck-me-pumps.sticker"
+    },
+    {
+      "filename" : "fly-as-duck.sticker"
+    },
+    {
+      "filename" : "youre.sticker"
+    },
+    {
+      "filename" : "their.sticker"
+    },
+    {
+      "filename" : "skull-ducker.sticker"
+    },
+    {
+      "filename" : "ducktastic.sticker"
+    },
+    {
+      "filename" : "duck-it-all.sticker"
+    },
+    {
+      "filename" : "duckin-a.sticker"
+    },
+    {
+      "filename" : "holy-duck-generic.sticker"
+    },
+    {
+      "filename" : "are-you-ducking-shipping-me.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
