@@ -319,6 +319,7 @@
 				8FD5519C1F5B89E4006CA2D7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8FD5519E1F5B89E4006CA2D7 /* Build configuration list for PBXNativeTarget "Autocorrect Ducks!" */ = {
 			isa = XCConfigurationList;
@@ -327,6 +328,7 @@
 				8FD551A01F5B89E4006CA2D7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
